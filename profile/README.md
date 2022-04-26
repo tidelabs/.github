@@ -8,7 +8,7 @@ To date, Web3 undoubtedly has opened many doors for many people. At the same tim
 
 We want to be an antidote to these stories and be among the forces of light in the crypto industry based on transparency, trust and a level playing field. To this end, we support, fund and create open source technologies and make sure they can be accessed and securely used by as many people as possible.
 
-## What we do
+## What we do
 
 - **Research and Development**: Tide Labs researches and builds cutting edge technologies based-on or complementing open sources Distributed Ledger Technologies. From security to user-experience, Tide Labs aims to contribute to a responsible and accessible decentralized web.
 - **Ecosystem Building**: At the core of our ecosystem sits Tidechain, a substrate-based Blockchain optimized for scalability of digital-asset transactions and security of its users. To this end, we bring together and support the brightest minds in the industry and support them through our community-governed grants program and extensive community treasury.
